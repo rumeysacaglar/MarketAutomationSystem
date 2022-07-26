@@ -4,6 +4,6 @@ namespace DataAccessLayer
 {
     public class Class1
     {
-        //samet
+        //samet2
     }
 }
